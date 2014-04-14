@@ -1,0 +1,85 @@
+/* Main rectangular box */
+	#mainContainer{
+		width:660px;
+		margin:0 auto;
+		text-align:left;
+		height:100%;
+		background-color:#fff;
+		border-left:0px 
+		border-right:0px 
+	}
+	#formContent{
+		padding:0px;
+	}
+	/* END CSS ONLY NEEDED IN DEMO */
+	
+	
+	/* Big box with list of options */
+
+
+	#ajax_listOfOptions{
+		position: absolute;
+		left: 30px;
+		margin: 10px 0px 0px 0px;
+		width: 500px;
+	/*	height:300px;	 Height of box */
+		overflow:auto;	/* Scrolling features */
+		background-color: #F9F9F9; 
+		-moz-border-radius: 7px;
+		-webkit-border-radius: 7px;
+		border: 2px solid #000;	
+		color: #000;
+		text-align: left;
+	}
+	#ajax_listOfOptions div{	/* General rule for both .optionDiv and .optionDivSelected */
+		margin:1px;		
+		padding:1px;
+		cursor:pointer;
+		font-size:11px;
+		text-align: left;
+	}
+	#ajax_listOfOptions .optionDiv{	/* Div for each item in list */
+		margin: 0px 0px 3px 0px;
+		padding: 3px;
+		cursor: pointer;
+		text-align: left;
+	}
+	#ajax_listOfOptions .optionDivSelected{ /* Selected item in the list */
+		background-color: #ddeff6;
+	}
+	#ajax_listOfOptions_iframe{
+		background-color:#F00;
+		position:absolute;
+		z-index:5;
+	}
+	
+
+
+/******* FORM *******/
+	form{
+		display:inline;
+	}
+.form table{
+	margin-bottom: 2em;
+}
+.form table td{
+	font-size: 18px;
+	vertical-align: center;
+}
+
+.form input.text{
+	font-weight: normal;
+	color: #565656; 
+	border: 1px solid #9c9c9c;
+	width: 440px;
+	padding: 2px;
+	margin-bottom: 5px;
+	text-align: left;
+	font-size: 20px;
+}
+.form input.text.active{
+	background: #ddeff6;
+	border: 1px solid #0099d4;
+}
+/******* /FORM *******/
+	

@@ -1,0 +1,261 @@
+body { font-family:'Arial'; font-size:13px; background: #f1f1f1 url(/images/background-grey.jpg) 50% 0 repeat-x; }
+#wrap { width:980px; font-family: Arial, Helvetica, sans-serif; font-size:13px; color:#000000; margin:0 auto; }
+#header {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: left; MARGIN-BOTTOM: 3px; PADDING-BOTTOM: 0px; WIDTH: 228px; COLOR: #000; PADDING-TOP: 0px; POSITION: relative; HEIGHT: 55px
+}
+#top {  float: right; margin-bottom:3px; }
+a:hover { text-decoration:none; color:#0066CC; border:none; background:#F4F4F4}
+.featured { 
+     float:left; width:635px; border:1px solid #CC0000; padding:5px; MARGIN-TOP: 10px;
+}
+.featured H2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 12px; PADDING-BOTTOM: 3px; MARGIN: 0px 0px 0px; PADDING-TOP: 3px; BORDER-BOTTOM: #FF9933 1px solid
+}
+.featured UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 12px; PADDING-BOTTOM: 0px; MARGIN: 0px; LINE-HEIGHT: 150%; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+.featured UL LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 20px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+.featured UL LI UL {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: square
+}
+.featured UL LI UL LI {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 14px; BORDER-LEFT-WIDTH: 0px; BACKGROUND: url(images/bullet.gif) no-repeat 0px 4px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 2px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none; BORDER-RIGHT-WIDTH: 0px; FONT-SIZE: 12px;
+}
+
+.leftbox {
+    float:left; width:635px; border:1px solid #f3f3f3; padding:5px; MARGIN-TOP: 10px;
+}
+.leftbox H2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 12px; PADDING-BOTTOM: 3px; MARGIN: 0px 0px 0px; PADDING-TOP: 3px; BORDER-BOTTOM: #FF9933 1px solid
+}
+.leftbox UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 12px; PADDING-BOTTOM: 0px; MARGIN: 0px; LINE-HEIGHT: 150%; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+.leftbox UL LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 20px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+.leftbox UL LI UL {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: square
+}
+.leftbox UL LI UL LI {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 14px; BORDER-LEFT-WIDTH: 0px; BACKGROUND: url(images/bullet.gif) no-repeat 0px 4px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 2px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none; BORDER-RIGHT-WIDTH: 0px; FONT-SIZE: 12px;
+}
+
+.rightbox {
+    float:left; width:300px; border:1px solid #f3f3f3; padding:5px; MARGIN-TOP: 10px;
+}
+.rightbox H2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 12px; PADDING-BOTTOM: 3px; MARGIN: 0px 0px 0px; PADDING-TOP: 3px; BORDER-BOTTOM: #FF9933 1px solid
+}
+.rightbox UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 12px; PADDING-BOTTOM: 0px; MARGIN: 0px; LINE-HEIGHT: 150%; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+.rightbox UL LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 20px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+.rightbox UL LI UL {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: square
+}
+.rightbox UL LI UL LI {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 14px; BORDER-LEFT-WIDTH: 0px; BACKGROUND: url(images/bullet.gif) no-repeat 0px 4px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 2px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none; BORDER-RIGHT-WIDTH: 0px; FONT-SIZE: 12px;
+}
+
+.rightadbox {
+    float:left; width:300px; padding:5px; MARGIN-TOP: 10px; border:1px solid #AFB5FA; background-color: #F1F2FE;
+}
+
+#header H1 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; TEXT-INDENT: -10000px; PADDING-TOP: 0px
+}
+#header H1 A {
+	DISPLAY: block; BACKGROUND: url(images/logo.gif) no-repeat left top; HEIGHT: 55px
+}
+#search {
+	PADDING-RIGHT: 0px; MARGIN-TOP: 30px; PADDING-LEFT: 0px; FLOAT: right; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+IMG {
+	BORDER: 0px;
+}
+A:hover {
+	COLOR: #0066cc; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; TEXT-DECORATION: none; BORDER-BOTTOM-STYLE: none
+}
+A:link {
+	COLOR: #0066cc; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; TEXT-DECORATION: none; BORDER-BOTTOM-STYLE: none
+}
+A:active {
+	COLOR: #0066cc; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; TEXT-DECORATION: none; BORDER-BOTTOM-STYLE: none
+}
+A:visited {
+	COLOR: #0066cc; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; TEXT-DECORATION: none; BORDER-BOTTOM-STYLE: none
+}
+.left {
+	 PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FLOAT: left; PADDING-BOTTOM: 5px; PADDING-TOP: 5px; WIDTH: 645px;
+}
+.right {
+	 PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FLOAT: right; PADDING-BOTTOM: 5px; WIDTH: 310px; PADDING-TOP: 5px; 
+}
+.right IMG {
+	BORDER-TOP-WIDTH: 0px; DISPLAY: block; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; MARGIN-LEFT: auto; MARGIN-RIGHT: auto; BORDER-RIGHT-WIDTH: 0px
+}
+.middleblock {
+	FLOAT: left; WIDTH: 522px
+}
+.middle {
+	BORDER-RIGHT: #f3f3f3 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #f3f3f3 1px solid; MARGIN-TOP: 10px; PADDING-LEFT: 10px; FONT-SIZE: 11px; FLOAT: left; PADDING-BOTTOM: 10px; MARGIN-LEFT: 10px; BORDER-LEFT: #f3f3f3 1px solid; WIDTH: 522px; LINE-HEIGHT: 16px; PADDING-TOP: 10px; BORDER-BOTTOM: #f3f3f3 1px solid
+}
+.middle H2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 16px; PADDING-BOTTOM: 3px; MARGIN: 0px 7px 3px 0px; PADDING-TOP: 3px; BORDER-BOTTOM: #ccc 1px dashed
+}
+.middle IMG {
+	BORDER-RIGHT: #eee 1px solid; BORDER-TOP: #eee 1px solid; BORDER-LEFT: #eee 1px solid; BORDER-BOTTOM: #eee 1px solid
+}
+.ads {
+	BORDER-RIGHT: #f3f3f3 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #f3f3f3 1px solid; MARGIN-TOP: 10px; PADDING-LEFT: 10px; FLOAT: left; PADDING-BOTTOM: 10px; MARGIN-LEFT: 10px; BORDER-LEFT: #f3f3f3 1px solid; WIDTH: 524px; LINE-HEIGHT: 16px; PADDING-TOP: 10px; BORDER-BOTTOM: #f3f3f3 1px solid
+}
+.ads IMG {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; TEXT-ALIGN: center; BORDER-RIGHT-WIDTH: 0px
+}
+IMG.wp-smiley {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+#footer {
+	CLEAR: both; PADDING-RIGHT: 10px; MARGIN-TOP: 20px; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; WIDTH: 980px; PADDING-TOP: 10px; TEXT-ALIGN: center
+}
+DIV.hr {
+	CLEAR: both; BACKGROUND: url(images/hr.gif) #fff repeat-x center 50%; HEIGHT: 1px
+}
+DIV.br {
+	CLEAR: both; BACKGROUND: url(images/br.gif) #fff repeat-x center 50%; HEIGHT: 10px
+}
+.alignright {
+	FLOAT: right
+}
+.alignleft {
+	FLOAT: left
+}
+.gcomment {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; MARGIN-BOTTOM: 3px; PADDING-BOTTOM: 3px; VERTICAL-ALIGN: middle; PADDING-TOP: 3px; BORDER-BOTTOM: #f3f3f3 1px solid; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BACKGROUND-COLOR: #f7f7f7
+}
+.ucomment {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; MARGIN-BOTTOM: 3px; PADDING-BOTTOM: 3px; PADDING-TOP: 3px; BORDER-BOTTOM: #f3f3f3 1px solid; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BACKGROUND-COLOR: #fbfbf1
+}
+INPUT#submit {
+	BORDER-RIGHT: #f93 2px solid; BORDER-TOP: #f93 2px solid; FONT-SIZE: 13px; BACKGROUND: #fc6; BORDER-LEFT: #f93 2px solid; COLOR: #fff; BORDER-BOTTOM: #f93 2px solid
+}
+OL.commentlist {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 1px; PADDING-TOP: 0px
+}
+OL.commentlist LI {
+	PADDING-RIGHT: 13px; PADDING-LEFT: 13px; PADDING-BOTTOM: 1px; MARGIN: 0px; PADDING-TOP: 13px; LIST-STYLE-TYPE: none
+}
+OL.commentlist LI.commenthead {
+	MARGIN: 0px; LIST-STYLE-TYPE: none
+}
+OL.commentlist LI.commenthead H2 {
+	MARGIN: 0px
+}
+SPAN {
+	
+}
+.addthis {
+	CLEAR: both; FLOAT: right
+}
+.left H2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 12px; PADDING-BOTTOM: 3px; MARGIN: 0px 7px 3px; PADDING-TOP: 3px; BORDER-BOTTOM: #FF9933 1px solid
+}
+.comments H3 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 14px; PADDING-BOTTOM: 3px; MARGIN: 0px 7px 3px; PADDING-TOP: 3px; BORDER-BOTTOM: #ccc 1px dashed
+}
+.left UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 11px; PADDING-BOTTOM: 0px; MARGIN: 0px; LINE-HEIGHT: 150%; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+.right UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 11px; PADDING-BOTTOM: 0px; MARGIN: 0px; LINE-HEIGHT: 150%; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+.left UL LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 20px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+.right UL LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 20px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+.left UL LI UL {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: square
+}
+.right UL LI UL {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: square
+}
+.left UL LI UL LI {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 14px; BORDER-LEFT-WIDTH: 0px; BACKGROUND: url(images/bullet.gif) no-repeat 0px 4px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 2px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none; BORDER-RIGHT-WIDTH: 0px
+}
+.right UL LI UL LI {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 14px; BORDER-LEFT-WIDTH: 0px; BACKGROUND: url(images/bullet.gif) no-repeat 0px 4px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 2px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none; BORDER-RIGHT-WIDTH: 0px
+}
+
+.right H2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 12px; PADDING-BOTTOM: 3px; MARGIN: 0px 7px 3px; PADDING-TOP: 3px; BORDER-BOTTOM: #FF9933 1px solid
+}
+.comments H3 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 14px; PADDING-BOTTOM: 3px; MARGIN: 0px 7px 3px; PADDING-TOP: 3px; BORDER-BOTTOM: #ccc 1px dashed
+}
+.right UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 11px; PADDING-BOTTOM: 0px; MARGIN: 0px; LINE-HEIGHT: 150%; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+.right UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 11px; PADDING-BOTTOM: 0px; MARGIN: 0px; LINE-HEIGHT: 150%; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+.right UL LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 20px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+.right UL LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 20px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+.right UL LI UL {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: square
+}
+.right UL LI UL {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: square
+}
+.right UL LI UL LI {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 14px; BORDER-LEFT-WIDTH: 0px; BACKGROUND: url(images/bullet.gif) no-repeat 0px 4px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 2px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none; BORDER-RIGHT-WIDTH: 0px
+}
+.right UL LI UL LI {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 14px; BORDER-LEFT-WIDTH: 0px; BACKGROUND: url(images/bullet.gif) no-repeat 0px 4px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 2px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none; BORDER-RIGHT-WIDTH: 0px
+}
+
+DIV.hr HR {
+	DISPLAY: none
+}
+DIV.br BR {
+	DISPLAY: none
+}
+.middle2 {
+	BORDER-RIGHT: #f3f3f3 3px solid; PADDING-RIGHT: 10px; BORDER-TOP: #f3f3f3 3px solid; MARGIN-TOP: 10px; PADDING-LEFT: 10px; FLOAT: left; PADDING-BOTTOM: 10px; MARGIN-LEFT: 10px; OVERFLOW: hidden; BORDER-LEFT: #f3f3f3 3px solid; WIDTH: 237px; LINE-HEIGHT: 16px; PADDING-TOP: 10px; BORDER-BOTTOM: #f3f3f3 3px solid
+}
+.middle3 {
+	BORDER-RIGHT: #f3f3f3 3px solid; PADDING-RIGHT: 10px; BORDER-TOP: #f3f3f3 3px solid; MARGIN-TOP: 10px; PADDING-LEFT: 10px; FLOAT: left; PADDING-BOTTOM: 10px; MARGIN-LEFT: 10px; OVERFLOW: hidden; BORDER-LEFT: #f3f3f3 3px solid; WIDTH: 237px; LINE-HEIGHT: 16px; PADDING-TOP: 10px; BORDER-BOTTOM: #f3f3f3 3px solid
+}
+.middle2 H2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 12px; PADDING-BOTTOM: 3px; MARGIN: 0px 7px 3px 0px; PADDING-TOP: 3px; BORDER-BOTTOM: #ccc 1px dashed
+}
+.middle3 H2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 12px; PADDING-BOTTOM: 3px; MARGIN: 0px 7px 3px 0px; PADDING-TOP: 3px; BORDER-BOTTOM: #ccc 1px dashed
+}
+.middle2 :hover {
+	BACKGROUND: #fafafa
+}
+.middle3 :hover {
+	BACKGROUND: #fafafa
+}
+.ucomment IMG {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+.addthis IMG {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+
+
+
+
+
